@@ -1,0 +1,17 @@
+requests
+osmium
+pandas
+tweepy
+Shapely
+geopandas
+tqdm
+seaborn
+matplotlib
+humanize
+duckdb
+pyarrow
+fastapi
+uvicorn
+psycopg[binary]
+asyncpg
+pydantic
