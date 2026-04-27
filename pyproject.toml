@@ -26,6 +26,7 @@ dependencies = [
     "uvicorn>=0.39.0",
     "asyncpg>=0.31.0",
     "psycopg[binary]>=3.2.13",
+    "litestar[standard]>=2.21.1",
 ]
 
 keywords = ["osm", "stats", "commandline", "openstreetmap"]
