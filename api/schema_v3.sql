@@ -1,6 +1,3 @@
--- OSMSG PostgreSQL Schema v3
--- Normalized beta-next schema
-
 CREATE TABLE IF NOT EXISTS pipeline_runs (
     id SERIAL PRIMARY KEY,
     run_type VARCHAR(50) NOT NULL DEFAULT 'scheduled',
